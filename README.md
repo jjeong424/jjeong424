@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=ffbfcf&height=250&section=header&text=Jeongha%Kim&fontSize=90&fontColor=4c5762)
+![header](https://capsule-render.vercel.app/api?type=slice&color=ffbfcf&height=250&section=header&text=Jeongha%Kim&fontSize=90&fontColor=232023)
 
 <h3 align='center'>🍀 Tech Stack 🍀</h3>
   
@@ -17,6 +17,7 @@
   ![REACT](https://img.shields.io/badge/React/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white)
   ![FLUTTER](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
   ![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+  <br>
   <br>
   <h3 align='center'>🌼 Contact 🌼</h3>
   
